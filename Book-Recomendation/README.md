@@ -1,0 +1,2 @@
+# Book Recommendation
+Sistem rekomendasi buku ini merupakan alat yang digunakan oleh pengguna untuk menyempurnakan atau meningkatkan kinerja proses rekomendasi buku, membantu pengguna menemukan buku yang mereka minati dan sesuai dengan preferensi mereka. Sistem ini memanfaatkan riwayat membaca dan preferensi pengguna untuk memberikan rekomendasi buku yang dipersonalisasi dan relevan. Dengan melakukan hal ini, akan membantu pengguna menemukan buku baru yang sesuai dengan minat mereka, sehingga meningkatkan kepuasan dan keterlibatan mereka dalam membaca.
